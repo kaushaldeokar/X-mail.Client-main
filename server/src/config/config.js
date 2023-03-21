@@ -6,6 +6,8 @@ const OAUTH_CLIENT_ID =
 const MAILER_PASSWORD = "xmailclient@123";
 const MAILER_ID = "xmail.client@gmail.com";
 
+
+
 module.exports = {
   JWT_SIGNATURE,
   DB_PASSWORD,
